@@ -1,0 +1,14 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "dependencies": {
+        "tkinter": "^0.0.2-security",
+      },
+    },
+  },
+  "packages": {
+    "tkinter": ["tkinter@0.0.2-security", "", {}, "sha512-UkXsGCGdbiWduImQ2pmtU6QnHmICrD1nrEyI+Nfg85l+psxenZKGzjNs43uvNerz2qJBmIHgBmxFnHWFzXk2uw=="],
+  }
+}
